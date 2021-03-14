@@ -1,6 +1,6 @@
 const CACHE_NAME = 'pwa-caches';
 const USER_TO_CACHE = [
-    '/example.com/',
+    '/sti320a.github.io/',
 ];
 
 self.addEventListener('install', function (event) {
